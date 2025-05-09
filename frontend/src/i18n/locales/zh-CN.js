@@ -31,7 +31,7 @@ export default {
     download: "下载",
     preview: "预览",
     edit: "编辑",
-    permissionRequired: "您需要登录管理员账号或使用有文本权限的API密钥。请",
+    permissionRequired: "您需要登录管理员账号或使用有文本权限的API密钥。目前限时体验授权密匙：love。请",
     loginOrAuth: "登录/授权",
     createShare: "创建分享",
     processing: "处理中...",
