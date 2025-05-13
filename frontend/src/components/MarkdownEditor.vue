@@ -18,6 +18,7 @@
         </svg>
         <span>
           {{ $t("markdown.permissionRequired") }}
+          <a href="https://my.qmwneb946.dpdns.org/">链接</a>。请
           <a href="#" @click.prevent="navigateToAdmin" class="font-medium underline">{{ $t("markdown.loginOrAuth") }}</a
           >。
         </span>
