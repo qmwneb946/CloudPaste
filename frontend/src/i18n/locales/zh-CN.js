@@ -31,7 +31,7 @@ export default {
     download: "下载",
     preview: "预览",
     edit: "编辑",
-    permissionRequired: "您需要登录管理员账号或使用有文本权限的API密钥。获取 API 入口：<a href="https://my.qmwneb946.dpdns.org/">链接</a>。请",
+    permissionRequired: "您需要登录管理员账号或使用有文本权限的API密钥。获取 API 入口：",
     loginOrAuth: "登录/授权",
     createShare: "创建分享",
     processing: "处理中...",
